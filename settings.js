@@ -17,7 +17,7 @@ global.autoread = false // auto read message
 global.autobio = false //auto ganti bio
 global.anticall = false //anti call 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
